@@ -717,6 +717,10 @@
         }
     }
 
+
+
+
+
     @media only screen and (max-device-height : 375px) {
         .footer_text {
             line-height: 15px;
@@ -744,5 +748,28 @@
         /*Подзаголовок, третья секция*/
         .footer_subtitle{
             font-size: 40px;
+        }
+    }
+
+    @media only screen and (max-device-height : 292px) {
+        .footer_text {
+
+            line-height: 15px;
+        }
+
+        /*Заголовок, третья секция*/
+        .footer_heading {
+            font-size: 15px;
+        }
+
+        /*Подзаголовок, третья секция*/
+        .footer_subtitle {
+            font-size: 30px;
+        }
+
+        .but_footer {
+            width: 80px;
+            height: 30px;
+            font-size: 12px;
         }
     }
