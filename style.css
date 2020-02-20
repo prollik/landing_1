@@ -890,7 +890,7 @@
 
         /*Текст в header*/
         .content {
-            top: 55%;
+            top: 60%;
         }
 
         .footer_text {
@@ -928,4 +928,9 @@
             height: 30px;
             font-size: 12px;
         }
+
+        /*.text_title_top1 {*/
+        /*    font-size: 25px;*/
+        /*    line-height: 25px;*/
+        /*}*/
     }
