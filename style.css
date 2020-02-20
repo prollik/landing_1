@@ -832,10 +832,10 @@
             top: 55%;
         }
     }
-    @media only screen and (max-device-height : 768px) {
+    @media only screen and (max-device-height : 542px) {
 
         nav {
-            padding-top: 70px;
+            padding-top: 30px;
         }
 
         /*Фон всего меню*/
