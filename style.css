@@ -833,9 +833,8 @@
         }
     }
     @media only screen and (max-device-height : 542px) {
-
         nav {
-            top: 0;
+            top: 0px;
             padding-top: 70px;
         }
 
